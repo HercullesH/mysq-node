@@ -1,6 +1,8 @@
 const db = require('../models/index');
 const Pessoa = db.Pessoa;
 
+
+
 function criarPessoas() {
 	const pessoas = [
 		{
